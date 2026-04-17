@@ -1,4 +1,4 @@
-# ⚽ Soccer Ball Detection (YOLOv8)
+# ⚽ Soccer Ball Detection (YOLOv8) - HUMANOIDE
 
 Projeto de **Visão Computacional** para detecção de bolas de futebol utilizando o modelo **YOLOv8**.
 
@@ -37,9 +37,8 @@ model.predict(source="imagem_ou_video", save=True)
 ```
 ├── treinar.py
 ├── data.yaml
-├── best.pt
 ├── exemplos/
-└── resultados/
+└── analise-resultados/
 ```
 
 ---
