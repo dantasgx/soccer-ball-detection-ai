@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['ball']
+
+roboflow:
+  workspace: gabriels-workspace-vk09f
+  project: soccer-ball-detection-3eait
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/gabriels-workspace-vk09f/soccer-ball-detection-3eait/dataset/1
