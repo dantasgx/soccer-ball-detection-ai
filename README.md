@@ -17,7 +17,7 @@ Treinar um modelo capaz de identificar bolas de futebol em imagens e vídeos.
 * mAP50: **0.995**
 * Alta precisão e recall na detecção
 
-![Resultados](resultados/results.png)
+![Resultados](analise-resultados/results.png)
 
 ## 🖼️ Exemplo
 
