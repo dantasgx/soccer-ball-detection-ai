@@ -21,7 +21,7 @@ Treinar um modelo capaz de identificar bolas de futebol em imagens e vídeos.
 
 ## 🖼️ Exemplo
 
-![Detecção](exemplos/img1.jpg)
+![Detecção](exemplos/resultado3.jpg)
 
 ## ▶️ Como usar
 
